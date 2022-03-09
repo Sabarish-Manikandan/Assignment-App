@@ -3,7 +3,7 @@
 **Steps to Run (Locally)**<br>
 Run Terminal -> Open the Assignment-App folder location in terminal <br>
 Run the command-> **npm install** (Makesure you already installed node in current machine )<br>
-import the attached .sql<br>
+import the attached .sql file in Database<br>
 Update the Mysql configuration in app.js file<br>
 Now run the app using the command-> **node app.js** <br><br>
 
