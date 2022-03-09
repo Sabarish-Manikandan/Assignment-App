@@ -97,7 +97,7 @@ A teacher can suspend a specified student.<br>
 <br><br>
 **Retrievefornotifications** <br>
 POST: /api/retrievefornotifications<br>
-The students of the teacher, who is sending the notification and @mentioned mentioned students with no suspend
+The students of the teacher, who is sending the notification and @mentioned students with no suspend
 will receive the notification<br>
 
 ```JSON
