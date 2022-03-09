@@ -16,6 +16,7 @@ POST: /api/retrievefornotifications
 <br><br><br>
 
 **Register** <br>
+POST: /api/register<br>
 A teacher can register multiple students. A student can also be registered to multiple teachers.<br>
 Multiple students also can regiter to multiple teacher (each student will be registered to all teachers)
 <br>
@@ -74,8 +75,8 @@ List data only under teacherken.<br>
 ```
 
 Example 2:<br>
-List common students under both the teachers(teacherken, teacherken).<br>
 GET :  /api/commonstudents/teacherken@gmail.com&teacherjoe@gmail.com <br>
+List common students under both the teachers(teacherken, teacherken).<br>
 ```JSON
 {
   "students" :
