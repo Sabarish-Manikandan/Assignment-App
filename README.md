@@ -13,3 +13,10 @@ POST: /api/register<br>
 GET:  /api/commonstudents/{id}  OR /api/commonstudents/{id}&{id}<br>
 PUT:  /api/suspend/{id} <br>
 POST: /api/retrievefornotifications
+
+
+<br><br>
+<br><br>
+<br><br>
+Regards<br>
+**Sabarish Manikandan**
